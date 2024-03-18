@@ -1,5 +1,3 @@
-### WebScraping-2
-
 ### In this Web Scraping project, I gather important product detail information from an online book store
 ### Apart of the information collect is Title, Price and Star Rating 
 ### I found this exercise to be incredily important because I created a function to iterate over the multiple pages of the website
