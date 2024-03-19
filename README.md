@@ -6,4 +6,4 @@
 ### From the stand point of data analysis, Web Scraping is valuable in creating specified collections of data
 ### The data with which I collected could be used to better understand pricing strategies and consumer taste preferences
 
-### Thank you for reading me and enjoy this project 😃
+### Thank you for reading and enjoy this project 😃
